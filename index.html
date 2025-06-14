@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atari Pong - Juego Clásico</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <header>
+            <h1>ATARI PONG</h1>
+            <div class="score-board">
+                <div class="score">
+                    <span>JUGADOR</span>
+                    <span id="playerScore">0</span>
+                </div>
+                <div class="score">
+                    <span>CPU</span>
+                    <span id="cpuScore">0</span>
+                </div>
+            </div>
+        </header>
+        
+        <main>
+            <canvas id="gameCanvas" width="800" height="400"></canvas>
+            
+            <div id="gameMenu" class="menu">
+                <h2>¡Bienvenido a Pong!</h2>
+                <p>Usa las teclas W y S para mover tu paleta</p>
+                <p>Primer jugador en llegar a 5 puntos gana</p>
+                <button id="startButton">INICIAR JUEGO</button>
+            </div>
+            
+            <div id="gameOver" class="menu hidden">
+                <h2 id="winnerText">¡Juego Terminado!</h2>
+                <button id="restartButton">JUGAR DE NUEVO</button>
+            </div>
+            
+            <div id="pauseMenu" class="menu hidden">
+                <h2>PAUSA</h2>
+                <p>Presiona ESPACIO para continuar</p>
+            </div>
+        </main>
+        
+        <footer>
+            <div class="controls">
+                <p><strong>Controles:</strong></p>
+                <p>W - Mover paleta hacia arriba</p>
+                <p>S - Mover paleta hacia abajo</p>
+                <p>ESPACIO - Pausar/Reanudar</p>
+            </div>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
