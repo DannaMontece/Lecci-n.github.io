@@ -2,7 +2,7 @@
 
 Un remake del legendario juego **Pong** de Atari, implementado completamente con HTML5, CSS3 y JavaScript vanilla. Este proyecto recrea la experiencia nostálgica del primer videojuego comercialmente exitoso de la historia.
 
-![Pong Game Screenshot](https://via.placeholder.com/800x400/000000/00ff00?text=ATARI+PONG)
+![Pong Game Screenshot](Pong Game Screenshot.png).
 
 ## 🚀 Demo en Vivo
 
