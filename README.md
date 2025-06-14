@@ -169,12 +169,6 @@ El proyecto se desarrolló de manera incremental con commits que muestran el pro
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-## 👨‍💻 Autor
-
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
-
 ## 🙏 Agradecimientos
 
 - **Atari Inc.** por crear el Pong original en 1972
@@ -200,28 +194,6 @@ Si encuentras algún problema o tienes preguntas:
 ```
 ```
 
-Este README completo incluye:
 
-## 📋 **Secciones principales:**
 
-1. **Introducción atractiva** con descripción del proyecto
-2. **Características detalladas** del juego
-3. **Instrucciones de instalación** múltiples opciones
-4. **Guía de uso** paso a paso
-5. **Documentación técnica** de la arquitectura
-6. **Roadmap** para futuras mejoras
-7. **Guías de contribución** para colaboradores
-8. **Historia del desarrollo** con contexto académico
-9. **Información de licencia y contacto**
-
-## 🎯 **Elementos destacados:**
-
-- **Emojis** para hacer el README más visual y atractivo
-- **Bloques de código** con sintaxis highlighting
-- **Estructura clara** con jerarquía de títulos
-- **Enlaces** y referencias útiles
-- **Badges** y elementos visuales
-- **Instrucciones específicas** para GitHub
-
-Este README es perfecto para acompañar tu proyecto en GitHub y mostrar profesionalismo en la documentación. ¡Asegúrate de personalizar los enlaces y datos de contacto con tu información real!
 
